@@ -120,6 +120,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- LICENSE -->
 ## License
 
+MIT license
 
 Copyright (c) 2021 Runcheng Zhang
 
