@@ -155,6 +155,15 @@ rzz5157@psu.edu
 
 
 
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [bootstrap Modal](https://getbootstrap.com/docs/4.0/components/modal/)
+* [Anchor Property](https://www.w3schools.com/jsref/prop_anchor_href.asp)
+
+
 
 
 
