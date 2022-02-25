@@ -52,7 +52,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+
   </ol>
 </details>
 
@@ -155,14 +155,7 @@ rzz5157@psu.edu
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
 
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
